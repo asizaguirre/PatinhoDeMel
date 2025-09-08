@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # PatinhoDeMel
 
@@ -33,6 +34,11 @@ MIT
 =======
 =======
 # Patinho de Mel
+=======
+# PatinhoDeMel
+
+
+>>>>>>> 1947ce9 (chore: add README and .gitignore)
 
 ## Introdução
 
@@ -61,4 +67,10 @@ O plano é provocá-los com comentários provocativos, fazendo-os acreditar que 
 “Cambada de vagabundos! Vocês acham que podem brincar comigo? A irmã vadia que criou esse site só consegue escolher os trouxas para tentar me enganar, pensando que negociou errado. Estão todos enganados.
 Meu patrimônio está seguro na minha Trust Wallet, representando duas gerações da minha família. O acesso é totalmente protegido: qualquer tentativa de fraude será inútil, só com a carta de segurança autorizada. Vocês acham que me intimidam? Estão brincando com fogo.”
 >>>>>>> d652d4b (Adiciona documentação e planos de ação)
+<<<<<<< HEAD
 >>>>>>> fd89326 (Adiciona documentação e planos de ação)
+=======
+=======
+# Potinho de Mel
+>>>>>>> b88a977 (chore: add README and .gitignore)
+>>>>>>> 1947ce9 (chore: add README and .gitignore)

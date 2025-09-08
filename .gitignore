@@ -1,3 +1,4 @@
+
 # Sistema
 .DS_Store
 Thumbs.db
@@ -23,3 +24,10 @@ venv/
 .env
 *.key
 *.pem
+
+# Ignore
+node_modules/
+.env
+*.log
+
+>>>>>>> 1947ce9 (chore: add README and .gitignore)
