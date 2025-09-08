@@ -1,0 +1,61 @@
+2025-09-08T08:21:49.736704-03:00 alam-MS-7D46 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-08T08:21:59.274663-03:00 alam-MS-7D46 sudo:     alam : TTY=pts/1 ; PWD=/home/alam/potinho-de-mel ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/auth.log
+2025-09-08T08:21:59.274766-03:00 alam-MS-7D46 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by alam(uid=1000)
+2025-09-08T08:22:36.865896-03:00 alam-MS-7D46 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-08T08:22:38.966678-03:00 alam-MS-7D46 sudo:     alam : TTY=pts/1 ; PWD=/home/alam/potinho-de-mel ; USER=root ; COMMAND=/usr/bin/grep 'Failed password' /var/log/auth.log -A 5 -B 5
+2025-09-08T08:22:38.967355-03:00 alam-MS-7D46 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by alam(uid=1000)
+2025-09-08T08:22:38.970200-03:00 alam-MS-7D46 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-08T08:25:01.176116-03:00 alam-MS-7D46 CRON[571711]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-09-08T08:25:01.177910-03:00 alam-MS-7D46 CRON[571711]: pam_unix(cron:session): session closed for user root
+2025-09-08T08:27:04.611228-03:00 alam-MS-7D46 sudo:     alam : TTY=pts/1 ; PWD=/home/alam/potinho-de-mel ; USER=root ; COMMAND=/usr/bin/tail -F /var/log/auth.log
+2025-09-08T08:27:04.614289-03:00 alam-MS-7D46 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by alam(uid=1000)
+2025-09-08T08:28:09.393563-03:00 alam-MS-7D46 sudo: pam_unix(sudo:auth): authentication failure; logname=alam uid=1000 euid=0 tty=/dev/pts/3 ruser=alam rhost=  user=alam
+2025-09-08T08:28:18.838800-03:00 alam-MS-7D46 sudo:     alam : 3 incorrect password attempts ; TTY=pts/3 ; PWD=/home/alam ; USER=root ; COMMAND=/usr/bin/ls
+2025-09-08T08:28:53.947178-03:00 alam-MS-7D46 sudo:     alam : TTY=pts/3 ; PWD=/home/alam ; USER=root ; COMMAND=/usr/bin/python3 src/potinho.py
+2025-09-08T08:28:53.947475-03:00 alam-MS-7D46 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by alam(uid=1000)
+2025-09-08T08:28:53.959335-03:00 alam-MS-7D46 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-08T08:29:59.158070-03:00 alam-MS-7D46 sudo:     alam : TTY=pts/3 ; PWD=/home/alam ; USER=root ; COMMAND=/usr/bin/python3 /home/alam/potinho-de-mel/src/potinho.py
+2025-09-08T08:29:59.160691-03:00 alam-MS-7D46 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by alam(uid=1000)
+2025-09-08T08:29:59.222837-03:00 alam-MS-7D46 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-08T08:30:01.181373-03:00 alam-MS-7D46 CRON[577605]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-09-08T08:30:01.182781-03:00 alam-MS-7D46 CRON[577605]: pam_unix(cron:session): session closed for user root
+2025-09-08T08:30:43.367107-03:00 alam-MS-7D46 sudo:     alam : TTY=pts/3 ; PWD=/home/alam ; USER=root ; COMMAND=/usr/bin/chown alam:alam /home/alam/potinho-de-mel/logs
+2025-09-08T08:30:43.367418-03:00 alam-MS-7D46 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by alam(uid=1000)
+2025-09-08T08:30:43.368705-03:00 alam-MS-7D46 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-08T08:30:49.767003-03:00 alam-MS-7D46 sudo:     alam : TTY=pts/3 ; PWD=/home/alam ; USER=root ; COMMAND=/usr/bin/python3 /home/alam/potinho-de-mel/src/potinho.py
+2025-09-08T08:30:49.767643-03:00 alam-MS-7D46 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by alam(uid=1000)
+2025-09-08T08:30:49.830647-03:00 alam-MS-7D46 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-08T08:32:30.618205-03:00 alam-MS-7D46 sudo:     alam : TTY=pts/3 ; PWD=/home/alam ; USER=root ; COMMAND=/usr/bin/chown alam:alam /home/alam/potinho-de-mel/logs
+2025-09-08T08:32:30.618610-03:00 alam-MS-7D46 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by alam(uid=1000)
+2025-09-08T08:32:30.620055-03:00 alam-MS-7D46 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-08T08:32:36.313658-03:00 alam-MS-7D46 sudo:     alam : TTY=pts/3 ; PWD=/home/alam ; USER=root ; COMMAND=/usr/bin/python3 /home/alam/potinho-de-mel/src/potinho.py
+2025-09-08T08:32:36.313808-03:00 alam-MS-7D46 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by alam(uid=1000)
+2025-09-08T08:32:36.380795-03:00 alam-MS-7D46 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-08T08:34:21.154502-03:00 alam-MS-7D46 sudo:     alam : TTY=pts/3 ; PWD=/home/alam ; USER=root ; COMMAND=/usr/bin/python3 /home/alam/potinho-de-mel/src/potinho.py
+2025-09-08T08:34:21.154919-03:00 alam-MS-7D46 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by alam(uid=1000)
+2025-09-08T08:34:21.172106-03:00 alam-MS-7D46 sudo:     root : TTY=pts/4 ; PWD=/home/alam ; USER=root ; COMMAND=/usr/bin/tail -F /var/log/auth.log
+2025-09-08T08:34:21.172232-03:00 alam-MS-7D46 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by alam(uid=0)
+2025-09-08T08:32:30.618205-03:00 alam-MS-7D46 sudo:     alam : TTY=pts/3 ; PWD=/home/alam ; USER=root ; COMMAND=/usr/bin/chown alam:alam /home/alam/potinho-de-mel/logs
+2025-09-08T08:32:30.618610-03:00 alam-MS-7D46 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by alam(uid=1000)
+2025-09-08T08:32:30.620055-03:00 alam-MS-7D46 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-08T08:32:36.313658-03:00 alam-MS-7D46 sudo:     alam : TTY=pts/3 ; PWD=/home/alam ; USER=root ; COMMAND=/usr/bin/python3 /home/alam/potinho-de-mel/src/potinho.py
+2025-09-08T08:32:36.313808-03:00 alam-MS-7D46 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by alam(uid=1000)
+2025-09-08T08:32:36.380795-03:00 alam-MS-7D46 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-08T08:34:21.154502-03:00 alam-MS-7D46 sudo:     alam : TTY=pts/3 ; PWD=/home/alam ; USER=root ; COMMAND=/usr/bin/python3 /home/alam/potinho-de-mel/src/potinho.py
+2025-09-08T08:34:21.154919-03:00 alam-MS-7D46 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by alam(uid=1000)
+2025-09-08T08:34:21.172106-03:00 alam-MS-7D46 sudo:     root : TTY=pts/4 ; PWD=/home/alam ; USER=root ; COMMAND=/usr/bin/tail -F /var/log/auth.log
+2025-09-08T08:34:21.172232-03:00 alam-MS-7D46 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by alam(uid=0)
+2025-09-08T08:35:00.855880-03:00 alam-MS-7D46 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-08T08:35:00.858677-03:00 alam-MS-7D46 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-08T08:35:01.186881-03:00 alam-MS-7D46 CRON[582912]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-09-08T08:35:01.188641-03:00 alam-MS-7D46 CRON[582912]: pam_unix(cron:session): session closed for user root
+2025-09-08T08:35:14.417903-03:00 alam-MS-7D46 sudo: pam_unix(sudo:auth): authentication failure; logname=alam uid=1000 euid=0 tty=/dev/pts/3 ruser=alam rhost=  user=alam
+2025-09-08T08:35:27.577748-03:00 alam-MS-7D46 sudo:     alam : TTY=pts/3 ; PWD=/home/alam ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/auth.log
+2025-09-08T08:35:27.577949-03:00 alam-MS-7D46 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by alam(uid=1000)
+2025-09-08T08:35:52.178601-03:00 alam-MS-7D46 sudo: pam_unix(sudo:auth): authentication failure; logname=alam uid=1000 euid=0 tty=/dev/pts/5 ruser=alam rhost=  user=alam
+2025-09-08T08:36:37.672954-03:00 alam-MS-7D46 sudo: pam_unix(sudo:auth): conversation failed
+2025-09-08T08:36:37.673150-03:00 alam-MS-7D46 sudo: pam_unix(sudo:auth): auth could not identify password for [alam]
+2025-09-08T08:36:37.673168-03:00 alam-MS-7D46 sudo:     alam : 1 incorrect password attempt ; TTY=pts/5 ; PWD=/home/alam ; USER=root ; COMMAND=ei
+2025-09-08T08:45:01.193744-03:00 alam-MS-7D46 CRON[594440]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-09-08T08:45:01.195506-03:00 alam-MS-7D46 CRON[594440]: pam_unix(cron:session): session closed for user root
+2025-09-08T08:45:02.803644-03:00 alam-MS-7D46 sudo: pam_unix(sudo:session): session closed for user root
