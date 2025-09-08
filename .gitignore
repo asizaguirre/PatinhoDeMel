@@ -1,5 +1,25 @@
-# Ignore
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Node
 node_modules/
-.env
+dist/
+build/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
 *.log
 
+# Arquivos de configuração sensíveis
+.env
+*.key
+*.pem
