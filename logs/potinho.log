@@ -7,7 +7,8 @@
 2025-09-08T08:22:38.970200-03:00 alam-MS-7D46 sudo: pam_unix(sudo:session): session closed for user root
 2025-09-08T08:25:01.176116-03:00 alam-MS-7D46 CRON[571711]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
 2025-09-08T08:25:01.177910-03:00 alam-MS-7D46 CRON[571711]: pam_unix(cron:session): session closed for user root
-2025-09-08T08:27:04.611228-03:00 alam-MS-7D46 sudo:     alam : TTY=pts/1 ; PWD=/home/alam/potinho-de-mel ; USER=root ; COMMAND=/usr/bin/tail -F /var/log/auth.log
+2025-09-08T08:27:04.611228-03:00 alam-MS-7D46 sudo:     alam : TTY=pts/1 ; PWD=/home/alam/potinho-de-mel ; USER=root ; COMMAND=/usr/bin/tail -F /var/log/auth.log-09-11T12:20:36.228869-03:00 alam-MS-7D46 sudo: pam_unix(sudo:auth): authentication failure; logname=alam uid=1000 euid=0 tty=/dev/pts/4 ruser=alam rhost=  user=alam
+
 2025-09-08T08:27:04.614289-03:00 alam-MS-7D46 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by alam(uid=1000)
 2025-09-08T08:28:09.393563-03:00 alam-MS-7D46 sudo: pam_unix(sudo:auth): authentication failure; logname=alam uid=1000 euid=0 tty=/dev/pts/3 ruser=alam rhost=  user=alam
 2025-09-08T08:28:18.838800-03:00 alam-MS-7D46 sudo:     alam : 3 incorrect password attempts ; TTY=pts/3 ; PWD=/home/alam ; USER=root ; COMMAND=/usr/bin/ls
